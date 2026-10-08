@@ -44,8 +44,8 @@ All images live under `ghcr.io/pwahub-org/*` and pull anonymously:
 
 ## 🔗 Links
 
-| | |
-|---|---|
+| Resource | Link |
+|----------|------|
 | 🌐 **Website** | [pwahub.org](https://pwahub.org) |
 | 📖 **Documentation** | [docs.pwahub.org](https://docs.pwahub.org) · [FAQ](https://docs.pwahub.org/guide/faq) |
 | 🔑 **Dashboard** | [dash.pwahub.org](https://dash.pwahub.org/login) |
@@ -53,7 +53,7 @@ All images live under `ghcr.io/pwahub-org/*` and pull anonymously:
 
 ## ✉️ Contact
 
-| | |
-|---|---|
+| Topic | Email |
+|-------|-------|
 | 💼 **Sales & licensing** | [sales@pwahub.org](mailto:sales@pwahub.org) |
 | 🛠 **Support** | [admin@pwahub.org](mailto:admin@pwahub.org) |
